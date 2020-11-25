@@ -1,0 +1,52 @@
+/* ISI */
+.suhermanatasatas{
+    max-width: 1200px;
+    min-width: 920px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 60px;
+}
+
+.suhermangambar img{
+    width: 88%;
+}
+.suhermangambar {
+    width: 64%;
+    text-align: center;
+  }
+
+.suhermanjudul{
+    color: rgb(65, 64, 63);
+    font-size: 54px;
+    line-height: 66px;
+    letter-spacing: 2px;
+  }
+.suhermansubjudul{
+    color: rgb(65, 64, 63);
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+.suhermanbutton{
+    display: inline-block;
+    text-decoration: none;
+    width: 184px;
+    height: 48px;
+    text-align: center;
+    line-height: 45px;
+    font-weight: 600;
+    color:rgb(65, 64, 63);
+    background-color: #ffffff;
+    border: 2px solid #44749d;
+    border-radius: 10px;
+}
+.suhermanbutton:hover{
+    color: #ffffff;
+    background-color:  #44749d;
+}
+.suhermanlink{
+    margin-right: 20px;
+}
+/* AKHIR ISI */
